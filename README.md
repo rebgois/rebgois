@@ -1,4 +1,13 @@
 <div>
+:wave:  Olá, eu sou a Reb! :wave: Ela/Dela
+  <br>
+:books: Estou no 2° ano de Análise e Desenvolvimento de Sistemas
+  <br>
+:seedling: Aqui voce acompanha um pouco do meu processo como desenvolvedora web 
+
+</div>
+
+<div>
 <a href="https://github.com/rebgois">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebgois&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebgois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
