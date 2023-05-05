@@ -4,8 +4,10 @@
 :books: Estou no 2° ano de Análise e Desenvolvimento de Sistemas
   <br>
 :seedling: Aqui voce acompanha um pouco do meu processo como desenvolvedora web 
-
-</div>
+<br>
+ </div>
+ 
+<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <a href="https://github.com/rebgois">
