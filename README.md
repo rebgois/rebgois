@@ -7,7 +7,6 @@
 <br>
  </div>
 <br>
-<br>
 <div>
 <a href="https://github.com/rebgois">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebgois&layout=compact&langs_count=7&theme=dracula"/>
