@@ -1,7 +1,7 @@
 <div>
   :wave: Olá, eu sou a Reb! :wave: Ela/Dela
   <br>
-  :books: Estou no último período da graduação de Análise e Desenvolvimento de Sistemas e já atuo como desenvolvedora Front-End
+  :books: Sou formada em Análise e Desenvolvimento de Sistemas e já atuo como desenvolvedora em diferentes projetos.
   <br>
   :seedling: Aqui você acompanha um pouco do meu processo
   <br>
