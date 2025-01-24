@@ -1,5 +1,5 @@
 <div>
-  :wave: Olá, eu sou a Reb! :wave: Ela/Dela
+  :wave: Olá, eu sou a Rebeca! :wave: Ela/Dela
   <br>
   :books: Sou formada em Análise e Desenvolvimento de Sistemas e já atuo como desenvolvedora em diferentes projetos.
   <br>
